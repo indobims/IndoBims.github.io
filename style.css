@@ -1,0 +1,35 @@
+.li-navbar{
+    list-style-type: none;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+   font-size: 20px;
+   display: inline;
+
+}
+.a-navbar{
+   text-decoration: none;
+   font-family: arial;
+   color: black
+}
+.table{
+    align-items: ;
+    text-indent: 20%;
+}
+
+.img2:hover{
+    border: 10px solid red;
+}
+.p1{
+    text-indent: 20%;
+    text-align: justify;
+}
+.navbar{
+    color: black;
+}
+.div1{
+    display: inline-block;
+    width: 1000px;
+    height: 200px;
+    border-right: 1px solid gray;
+}
